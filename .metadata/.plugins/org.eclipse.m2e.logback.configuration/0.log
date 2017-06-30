@@ -1,0 +1,27 @@
+2017-06-29 23:20:35,315 [Worker-5] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.cooksys:twremix:0.0.1-SNAPSHOT @ C:\Users\ftd-5\SOA_Assignments\second-assessment-skeleton\twremix2\pom.xml.
+2017-06-29 23:20:47,843 [Worker-5] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /twremix2/src/main/java
+2017-06-29 23:20:47,844 [Worker-5] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /twremix2/src/main/resources
+2017-06-29 23:20:47,845 [Worker-5] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /twremix2/src/main/resources
+2017-06-29 23:20:47,846 [Worker-5] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /twremix2/src/test/java
+2017-06-29 23:20:48,157 [Worker-5] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 24 sec
+2017-06-29 23:20:54,369 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-29 23:20:54,377 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-06-29 23:20:54,400 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-06-29 23:20:54,406 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-29 23:20:54,406 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ftd-5\SOA_Assignments\second-assessment-skeleton\twremix2\src\test\resources
+2017-06-29 23:21:50,088 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2017-06-29 23:21:57,371 [Worker-0] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\ftd-5\SOA_Assignments\second-assessment-skeleton\twremix2
+2017-06-29 23:21:57,373 [Worker-0] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean install
+2017-06-29 23:22:49,983 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-29 23:22:49,990 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-06-29 23:22:50,015 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-06-29 23:22:50,018 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-29 23:22:50,018 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ftd-5\SOA_Assignments\second-assessment-skeleton\twremix2\src\test\resources
+2017-06-29 23:23:00,230 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2017-06-29 23:23:07,404 [Worker-13] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\ftd-5\SOA_Assignments\second-assessment-skeleton\twremix2
+2017-06-29 23:23:07,414 [Worker-13] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean install
+2017-06-29 23:23:30,509 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-29 23:23:30,510 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-06-29 23:23:30,535 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-06-29 23:23:30,547 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-29 23:23:30,559 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ftd-5\SOA_Assignments\second-assessment-skeleton\twremix2\src\test\resources
